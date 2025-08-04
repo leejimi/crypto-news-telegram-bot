@@ -1,0 +1,5 @@
+python-dotenv
+feedparser
+requests
+schedule
+openai
